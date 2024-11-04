@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '12.0'
+
+target 'HFCrashAvoid_Example' do
+  pod 'HFCrashAvoid', :path => '../'
+
+  target 'HFCrashAvoid_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

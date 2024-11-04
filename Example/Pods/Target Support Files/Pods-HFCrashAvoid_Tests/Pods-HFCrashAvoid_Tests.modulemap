@@ -1,0 +1,6 @@
+framework module Pods_HFCrashAvoid_Tests {
+  umbrella header "Pods-HFCrashAvoid_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

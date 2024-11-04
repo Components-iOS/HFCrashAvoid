@@ -1,0 +1,6 @@
+framework module HFCrashAvoid {
+  umbrella header "HFCrashAvoid-umbrella.h"
+
+  export *
+  module * { export * }
+}

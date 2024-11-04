@@ -1,0 +1,16 @@
+PODS:
+  - HFCrashAvoid (0.1.0)
+
+DEPENDENCIES:
+  - HFCrashAvoid (from `../`)
+
+EXTERNAL SOURCES:
+  HFCrashAvoid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HFCrashAvoid: 94a794f2d56049f786fd7f627f6ccaf4656fba3c
+
+PODFILE CHECKSUM: 8f67243bb3072de36ce11eb83038f653fca31c60
+
+COCOAPODS: 1.15.2
